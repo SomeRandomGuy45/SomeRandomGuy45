@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SomeRandomGuy45
-- 👀 I’m interested in learning C++ and Lua
-- 🌱 I’m currently learning C++
+#Hello!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRandomGuy45&layout=compact)
